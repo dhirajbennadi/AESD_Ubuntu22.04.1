@@ -1,2 +1,7 @@
-# AESD_Ubuntu22.04.1
-Contains Support for AESD Assignments on Ubuntu 22.04 Version
+Version Information
+
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 22.04.1 LTS
+Release:	22.04
+Codename:	jammy
